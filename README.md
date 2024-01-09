@@ -1,4 +1,4 @@
-         Burger Project 
+                                             **Burger Project ** 
 
  This is mainly for the CSS course for the Burger Project how to style and animate 
 
